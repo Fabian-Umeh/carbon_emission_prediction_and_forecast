@@ -29,7 +29,7 @@ This notebook is the first phase of the project and deals primarily with data cl
 
 ## [CO2_Phase_2.ipynb](./CO2_Phase_2.ipynb)
 ### Summary
-Details are not available, but it is presumed that this notebook delves into the visualization and exploration of the cleaned data.
+This notebook delves into the visualization and exploration of the cleaned data.
 
 #### Highlights
 - **General Description**: Assumed to focus on data visualization and exploration.
@@ -38,7 +38,7 @@ Details are not available, but it is presumed that this notebook delves into the
 
 ## [CO2_Phase_3.ipynb](./CO2_Phase_3.ipynb)
 ### Summary
-Details are not available, but it is presumed that this notebook focuses on predictive analysis using machine learning algorithms.
+This notebook focuses on predictive analysis using machine learning algorithms.
 
 #### Highlights
 - **General Description**: Assumed to focus on predictive analysis using machine learning algorithms.
